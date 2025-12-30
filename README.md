@@ -48,13 +48,7 @@ cd Flutter_SQLite_login
 flutter pub get
 ```
 
-### 4️⃣ Configure API Endpoint
-Open api_service.dart and set your upload API URL:
-```bash
-const String uploadUrl = "https://your-api-endpoint.com/upload";
-```
-
-### 5️⃣ Run the app
+### 4️⃣ Run the app
 Android / iOS / Web
 ```bash
 flutter run
